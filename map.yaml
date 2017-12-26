@@ -29,6 +29,7 @@ mailbox.html:
 
     knock.html: Knock on the door.
     east.html: Head east.
+    https://unityandthiosulfinates.wordpress.com/2016/12/19/open-the-second-letter/: Check for more letters.
 
 east.html:
     title: Heading East
@@ -94,6 +95,9 @@ driver.html:
         even leaves your mouth. The driver glares at you in consternation,
         before wordlessly returning to his horses and resuming the ride.
 
+    escape.html: Try to jump off the cart.
+    https://unityandthiosulfinates.wordpress.com/2016/12/08/sit-up-and-look-around/: Sit up and look around.
+
 escape.html:
     title: Escaping from the Cart
     text: |
@@ -128,6 +132,33 @@ escape.html:
         <p>She understands your expression and invites you inside. You
         graciously accept and enter the small mud hut just as the last bit of
         sun melts away over the horizon.
+
+    dinner.html: Try to explain your situation.
+
+dinner.html:
+    title: Dinner with the Floyds
+    text: |
+        <p>For a moment, it is quiet around the table. Then, for the first
+        time, the young boy speaks.
+
+        <p><em>&mdash; Are you from far, sir?</em>
+
+        <p>He looks into your eyes with understanding, and now the wall between
+        you and the family has fallen and all that is left is for you to
+        explain yourself.
+
+        <p>And you do. The young boy nods along between bites of rice&mdash;it
+        is a humble meal, but one you appreciate&mdash;and once or twice he
+        turns to his mother to explain what you have said.</p>
+
+        <p>Your tale approaches the present, and you stop suddenly, unsure of
+        how to conclude. The young boy finishes for you,
+
+        <p><em>&mdash; And now, sir, you are here with us.</em>
+
+        <p>You wonder how such a young boy can act with such grace.
+
+    https://unityandthiosulfinates.wordpress.com/2016/12/19/but-wait-what-was-it-that-you-told-him/: Reflect on what you just said.
 
 knock.html:
     title: Knocking at the Door
@@ -235,6 +266,8 @@ curtain.html:
 
         <p>The singing gets louder, but you still cannot discern the words.
 
+    http://roanoke.technoboy10.tk: Stay hidden. Silently.
+
 ladder.html:
     title: Climbing the Ladder
     text: |
@@ -260,8 +293,9 @@ ladder.html:
 
         <p>You try to evaluate your position. Strategically, you decide, you
         are losing, considering (a) you're on top of a tall, flimsy ladder, and
-        (b) you have no idea what you are doing.
+        (b) you have no idea what you are doing. You deduce that you are in no
+        way prepared to go on the offensive.
 
-        <p>You deduce that you are in no way prepared to go on the offensive.
-        You thus do the honorable thing and descend the ladder as quickly as
-        you can.
+    curtain.html: |
+        You descend the ladder as quickly as you can. Back on the ground, now,
+        you seek refuge behind the floral curtain.
